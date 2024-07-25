@@ -17,14 +17,14 @@ milvus_collection_name = "Chunk_Vector_Index"
 
 
 # Mistral API details
-MISTRAL_URL = 'https://Mistral-large-deploy-serverless.eastus2.inference.ai.azure.com/v1/chat/completions'
-MISTRAL_API_KEY = 'RlbBY2ya6JffeQCdABi696QT1R1X0eDd'
+MISTRAL_URL = ''
+MISTRAL_API_KEY = ''
 
 # SQL Server connection details
-SQL_SERVER = 'owaislone123.database.windows.net'
-DATABASE = 'mydatabase'
-USERNAME = 'owaislone'
-PASSWORD = 'Owais@1012200'
+SQL_SERVER = ''
+DATABASE = ''
+USERNAME = ''
+PASSWORD = ''
 DRIVER = '{ODBC Driver 17 for SQL Server}'
 
 SQL_CONN_STRING= f'DRIVER={DRIVER};SERVER=tcp:{SQL_SERVER};PORT=1433;DATABASE={DATABASE};UID={USERNAME};PWD={PASSWORD}'
