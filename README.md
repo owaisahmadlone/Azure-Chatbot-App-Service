@@ -94,7 +94,3 @@ For any questions or support, please feel free to open an issue on GitHub.
 - [Milvus](https://milvus.io/) - Vector database used for similarity search.
 - [FastAPI](https://fastapi.tiangolo.com/) - API framework used for the backend.
 - [Azure App Service](https://azure.microsoft.com/services/app-service/) - Platform for deploying cloud-based applications.
-
----
-
-This `README.md` provides a clear, structured overview of the project and is tailored to users who may want to set up or contribute to your chatbot app. Let me know if you’d like any additional sections or specific details!
