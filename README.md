@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` for your GitHub project:
-
----
-
 # Azure-Chatbot-App-Service
 
 This repository is dedicated to the development of a cloud-based QnA Chatbot using Milvus as a vector database. The chatbot is deployed as an app service on Microsoft Azure, utilizing FastAPI to create a seamless interface for users to interact with the chatbot.
